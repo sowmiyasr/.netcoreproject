@@ -1,0 +1,7 @@
+/home/local/Mys4demoapp/Mys4demoapp.Web/bin/Debug/net7.0/publish/Mys4demoapp.Web
+/home/local/Mys4demoapp/Mys4demoapp.Web/bin/Debug/net7.0/publish/appsettings.Development.json
+/home/local/Mys4demoapp/Mys4demoapp.Web/bin/Debug/net7.0/publish/appsettings.json
+/home/local/Mys4demoapp/Mys4demoapp.Web/bin/Debug/net7.0/publish/Mys4demoapp.Web.dll
+/home/local/Mys4demoapp/Mys4demoapp.Web/bin/Debug/net7.0/publish/Mys4demoapp.Web.deps.json
+/home/local/Mys4demoapp/Mys4demoapp.Web/bin/Debug/net7.0/publish/Mys4demoapp.Web.runtimeconfig.json
+/home/local/Mys4demoapp/Mys4demoapp.Web/bin/Debug/net7.0/publish/Mys4demoapp.Web.pdb

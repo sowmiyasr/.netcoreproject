@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Mys4demoapp.Web.props" />
+</Project>
